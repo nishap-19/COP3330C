@@ -1,0 +1,8 @@
+Flight#    FDate      DTime      ATime      DepartCity      DestCity      AvailableSeats
+AA3234     19Apr19    12:00      13:05      Orlando         Atlanta            65
+BC4353     21Apr19    14:30      15:50      Tallahassee     Miami              69
+AB4694     5May19     13:00      14:25      Jacksonville    Charlotte          68
+BB2187     16May19    12:45      14:00      Miami           Atlanta            69
+AA1234     12Apr19    12:00      13:30      Atlanta         Miami              70
+AB8639     12Apr19    12:00      13:30      Tallahassee     Miami              70
+AA1342     12Apr19    12:00      13:30      Atlanta         Miami              70

@@ -1,0 +1,10 @@
+ID          Name               SeatNumber    Flights
+743584548   Amber Bane         1C            AA3234
+545848578   Darion Falls       2A            AA3234
+384384524   Oscar Rivera       2A            BC4353
+32856488    Quinn Luvfelt      1A            AB4694
+3434546     Raine Hood         1C            BB2187
+6758574     Melody Everbank    2F            AB4694
+9463488     Tyler Frey         1D            AA3234
+12334234    Amber Lane         1B            AA3234
+2877656     Carter Banks       4A            AA3234
